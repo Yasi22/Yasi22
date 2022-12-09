@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+````python
+#!/user/bin/python
+# -*- cod: utf-8 -*-
 
 
 class SoftwareEngineer:
@@ -23,7 +23,7 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
-```
+````
 
 
 
