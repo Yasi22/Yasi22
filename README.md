@@ -14,8 +14,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Yasin Bach"
         self.role = "Software Engineer"
-        self.language_spoken = ["ya_GE", "ya_US", "ya_SP"]
-        self.programming_language = "ya_py", "ya_jav", "ya_C#"
+        self.language_spoken = ["en", "es", "de"]
+        self.programming_language = ["py", "java", "cs"]
         
     def say_hi(self):
         print("Thanks for dropping by.")
