@@ -5,14 +5,14 @@ Software Developer
 ------------------
 
 ````python
-#!/user/bin/python
+#!/user/bin/python3
 # -*- cod: utf-8 -*-
 
 
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Yasin Bach"
+        self.name = "Yasin Bachiri"
         self.role = "Software Engineer"
         self.language_spoken = ["en", "es", "de"]
         self.programming_language = ["java", "py", "cs"]
